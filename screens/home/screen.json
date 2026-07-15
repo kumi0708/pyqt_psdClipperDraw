@@ -1,0 +1,29 @@
+{
+    "name": "home",
+    "canvas": {
+        "width": 800,
+        "height": 600
+    },
+    "layers": [
+        {
+            "id": "bg",
+            "type": "image",
+            "src": "bg.png",
+            "x": 0,
+            "y": 0,
+            "w": 800,
+            "h": 600,
+            "visible": true
+        },
+        {
+            "id": "icon",
+            "type": "image",
+            "src": "icon.png",
+            "x": 50,
+            "y": 50,
+            "w": 200,
+            "h": 200,
+            "visible": true
+        }
+    ]
+}
